@@ -92,6 +92,7 @@ Analyze sales performance over time and identify patterns or anomalies.
 - Fridays show the highest demand (~**3.5K orders**), highlighting strong end-of-week consumption.  
 - Holidays such as New Year and Easter generate higher-than-average sales (~**$2.6K–$2.7K per event**).
 - Sales anomalies are likely driven by seasonal factors, promotions, and customer behavior during major holidays.
+For example, early-year holidays (New Year, Easter) show stronger performance, while post-holiday periods (e.g. Boxing Day) reflect reduced consumer spending.
 
 ### 📌 Recommendations  
 
