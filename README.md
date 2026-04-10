@@ -105,7 +105,7 @@ For example, early-year holidays (New Year, Easter) show stronger performance, w
 ## 🍕 Product Performance & Customer Ordering Patterns  
 
 <p align="center">
-    <img src="Power BI/Page 1 Sales Analysis .png" alt="Employee Analysis" style="border-radius: 10px;">
+    <img src="Power BI/Page 2 Operation & Product Analysis .png" alt="Employee Analysis" style="border-radius: 10px;">
     </br>
     Operational & Product Analysis
 </p>
@@ -144,7 +144,7 @@ Evaluate product performance and understand how pricing, size, and customer beha
 
 
 <p align="center">
-    <img src="Power BI/Page 1 Sales Analysis .png" alt="Employee Analysis" style="border-radius: 10px;">
+    <img src="Power BI/Page 2 Operation & Product Analysis .png" alt="Employee Analysis" style="border-radius: 10px;">
     </br>
     Operational & Product Analysis
 </p>
