@@ -61,9 +61,6 @@ This structure enables flexible analysis across multiple dimensions such as time
 > - `Orders` enables order frequency and turnaround-time analysis.  
 > - `Dim_Date`, `DimPizza`, and `Dim_Pizza_Ingredient` provide time, product, and ingredient dimensions for slicing and drill-down.
 
-
-Power BI/Page 1 Sales Analysis .png
-
 ## 📈 Business Insights
 
 ## 🎯 Overall Problem Statement  
@@ -105,7 +102,7 @@ For example, early-year holidays (New Year, Easter) show stronger performance, w
 ## 🍕 Product Performance & Customer Ordering Patterns  
 
 <p align="center">
-    <img src="Power BI/Page 2 Operation & Product Analysis .png" alt="Employee Analysis" style="border-radius: 10px;">
+    <img src="Power BI/Page 2 Operation & Product Analysis.png" alt="Employee Analysis" style="border-radius: 10px;">
     </br>
     Operational & Product Analysis
 </p>
@@ -144,9 +141,9 @@ Evaluate product performance and understand how pricing, size, and customer beha
 
 
 <p align="center">
-    <img src="Power BI/Page 2 Operation & Product Analysis .png" alt="Employee Analysis" style="border-radius: 10px;">
+    <img src="Power BI/Page 3 Pizza Categories Analysis.png" alt="Employee Analysis" style="border-radius: 10px;">
     </br>
-    Operational & Product Analysis
+  Pizza Categories Analysis
 </p>
 
 ### 🎯 Objective  
@@ -177,8 +174,13 @@ Identify top-performing and underperforming products to optimize the menu.
 ---
 
 ## 🧂 Ingredient Analysis  
+<p align="center">
+    <img src="Power BI/Page 4 Ingredient Analysis.png" alt="Employee Analysis" style="border-radius: 10px;">
+    </br>
+Ingredient Analysis
+</p>
 
-### 🎯 Objective  
+### 🎯Objective  
 Understand ingredient popularity and its contribution to sales.
 
 ### 💡 Key Insights
@@ -204,4 +206,5 @@ Understand ingredient popularity and its contribution to sales.
 ## 🎯 Final Impact  
 
 This dashboard provides insights into sales trends, customer behavior, and product performance, enabling the business to optimize pricing, improve product strategy, and enhance operational efficiency.
+
 ---
