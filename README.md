@@ -6,7 +6,7 @@ This project focuses on analyzing historical pizza sales data to generate action
 
 ## 📑 Table of Contents
 - 🧠 [Data Model](#-data-model)
-- 🧠 [Semantic Model](#-sematic-model)
+- 🧠 [Semantic Model](#-semantic-model)
 - 📈 [Business Insights](#-business-insights)
 - 🎯 [Final Impact](#-final-impact) 
 ---
