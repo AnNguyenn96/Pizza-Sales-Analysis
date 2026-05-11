@@ -5,9 +5,8 @@ This project focuses on analyzing historical pizza sales data to generate action
 ---
 
 ## 📑 Table of Contents
-- 🍕 [Pizza Sales Dashboard](#-pizza-sales-dashboard)
-- 🏗️ [Architecture](#-architecture)
 - 🧠 [Data Model](#-data-model)
+- 🏗️ [Architecture](#-architecture)
 - 📈 [Business Insights](#-business-insights)
 
 ---
